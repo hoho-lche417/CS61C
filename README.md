@@ -1,0 +1,1 @@
+The repo holds the labs and projects for the free online course [CS61C:Great Ideas in Computer Architecture (Machine Structures) (Spring 2026)](https://cs61c.org/sp26/). The [course notes](https://notes.cs61c.org/) are also available.
