@@ -1,0 +1,46 @@
+# You should be editing this file for the Intro to GDB exercise of lab 2.
+# Make sure each command is on its own line
+# Lines starting with # are comments, feel free to add any to document your commands
+
+# Please add your commands below this line
+
+# 1 
+start
+
+# 2
+next
+
+# 3
+next
+next
+next
+
+# 4
+step
+
+# 5
+step
+
+# 6
+print password
+
+# 7
+finish
+
+# 8
+next
+step
+
+# 9 
+next
+next
+
+# 10
+print meets_len_req
+
+# 11
+print length
+
+# 12
+quit
+

@@ -1,0 +1,39 @@
+# You should be editing this file for the More GDB exercise of lab 2.
+# Make sure each command is on its own line
+# Lines starting with # are comments, feel free to add any to document your commands
+
+# Please add your commands below this line
+
+# 1
+break check_number
+
+# 2
+run
+
+# 3
+next
+step
+
+# 4
+backtrace
+
+# 5
+break pwd_checker.c:31 if letter = 0
+
+# 6
+continue
+
+# 7
+print letter
+
+# 8
+print is_in_range
+
+# 9
+print lower
+
+# 10
+print upper
+
+# 11
+quit
